@@ -22,8 +22,8 @@ int8_t timeZone = 7;
 int8_t minutesTimeZone = 0;
 bool wifiFirstConnected = false;
 
-const char* ssid = "DANINDRA";
-const char* pass = "30052002";
+const char* ssid = "ssid";
+const char* pass = "pass";
 
 SSD1306 display(0x3c, 4, 15);
 String rssi = "RSSI --";
