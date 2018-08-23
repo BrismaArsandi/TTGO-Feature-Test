@@ -5,7 +5,6 @@
 #include <Wire.h>
 #include <WiFi.h>
 #include "SSD1306.h"
-//#include "images.h"
 
 #define SCK     5    // GPIO5  -- SX127x's SCK
 #define MISO    19   // GPIO19 -- SX127x's MISO
